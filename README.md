@@ -1,5 +1,5 @@
 - 👋 Hi, we're @c02-labs
-- 👀 We're interested in Environmental, Social, and Governance (ESG) & Corporate Social Responsibility
+- 👀 We're interested in ESG & Corporate Social Responsibility
 - 🌱 We're looking to collaborate with partners that desire to publish ESG compliance data on a blockchain.
 - 📫 How to reach us: <email>
 
